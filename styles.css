@@ -81,8 +81,6 @@ body, html {
 
 /* Specific style for the first page to add background animation */
 #page-1 .center-text {
-  font-size: 500%; /* Adjust font size as needed */
-  font-weight: 800;
   background-image: url("bg_image.jpg");
   background-position: 0 35%;
   -webkit-background-clip: text;
