@@ -103,8 +103,9 @@ body, html {
 #page-2 .center-text {
   font-size: 300%; /* Adjust font size as needed */
   font-weight: 800;
-  color: #212020;
+  color: #ebebeb;
   text-align: center;
+  /* text-shadow: -1px -1px 0 #ffffff, 1px -1px 0 #ffffff, -1px 1px 0 #ffffff, 1px 1px 0 #ffffff; */
 }
 
 /* Navigation bar styles */
