@@ -10,5 +10,5 @@ document.addEventListener("DOMContentLoaded", function() {
       pages.forEach(page => page.style.opacity = 1);
       navBar.style.opacity = 1;
       document.body.style.overflow = 'auto';
-  }, 2500);
+  }, 4000);
 });
