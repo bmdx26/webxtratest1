@@ -89,11 +89,11 @@ body, html {
   -moz-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
-  -webkit-animation: BackgroundAnimated 15s linear infinite alternate;
-  -moz-animation: BackgroundAnimated 15s linear infinite alternate;
-  -ms-animation: BackgroundAnimated 15s linear infinite alternate;
-  -o-animation: BackgroundAnimated 15s linear infinite alternate;
-  animation: BackgroundAnimated 15s linear infinite alternate;
+  -webkit-animation: BackgroundAnimated 30s linear infinite alternate;
+  -moz-animation: BackgroundAnimated 30s linear infinite alternate;
+  -ms-animation: BackgroundAnimated 30s linear infinite alternate;
+  -o-animation: BackgroundAnimated 30s linear infinite alternate;
+  animation: BackgroundAnimated 30s linear infinite alternate;
 }
 
 /* Rounded corners for page 2 */
